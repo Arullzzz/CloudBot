@@ -8,12 +8,12 @@ global.donasi = process.env.DONASI
 global.thumbmenu = process.env.THUMB_MENU
 global.sig = process.env.LINK_IG
 global.sgh = process.env.LINK_GITHUB
-global.sgc = process.env.LINK_GROUP
-global.ownernumber = process.env.NOWNER
-global.owner = [
+global.sgc = process.env.https://chat.whatsapp.com/J4N9Nw01ZDr1FBNSiFVZ1s
+global.ownernumber = process.env.6285822347348
+global.owner = [Arull
   ['0'],
   ['0'],
-  [`${process.env.NOWNER}`, `${process.env.NAMAOWNER}`, true]
+  [`${process.env.6285822347348}`, `${process.env.Arull}`, true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [`${process.env.MODERATOR}`] // Want some help?
@@ -38,8 +38,8 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = process.env.PACKNAME
-global.author = process.env.AUTHOR
+global.packname = process.env.Arull
+global.author = process.env.BotArull
 
 global.multiplier = 69 // The higher, The harder levelup
 
